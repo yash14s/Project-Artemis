@@ -1,3 +1,6 @@
 # Project-Artemis
 
-Demo: https://gtvault-my.sharepoint.com/:f:/g/personal/ysrivastava6_gatech_edu/EgEj9wn9PshBofSBmwIyU4oBbh0KQINVxyoYkJ1thHUGiA?e=CIi5TD
+Demo: https://youtu.be/A8umhY0R0qM
+
+Instructions to run framework:
+https://github.com/yash14s/Project-Artemis/tree/main/project_artemis/src/Readme.txt
